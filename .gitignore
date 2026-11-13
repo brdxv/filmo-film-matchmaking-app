@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+# copyrighted media is not tracked (see README)
+backend/static/Resources/Images/Movies/*
+backend/static/Resources/Images/TV_Shows/*
+backend/static/Resources/Images/Feed/*
+backend/static/Resources/Images/Instants/*
+backend/static/Resources/Images/Profiles/*
+backend/static/Resources/Videos/**
+!**/.gitkeep

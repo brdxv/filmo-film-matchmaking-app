@@ -1,0 +1,14 @@
+
+{
+  "name": "filmo-electron-python",
+  "version": "1.0.0",
+  "description": "FILMO desktop app using Electron frontend and Python Flask SQLite backend",
+  "main": "electron-main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}
